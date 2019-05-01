@@ -25,4 +25,6 @@ pip3 install -r requirements.txt
 ## **使用到的开源项目**
 > **danmaku2ass** 
 
+[![Download Bilibili_video-ass_download](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bilibili-video-ass-download/files/latest/download)
+
 
