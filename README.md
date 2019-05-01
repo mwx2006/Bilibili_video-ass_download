@@ -8,6 +8,7 @@ Bilibili(b站)视频下载
 ### hexo博客-http://mwx2006.top
 
 ****
+[![Download Bilibili_video-ass_download](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bilibili-video-ass-download/files/latest/download)
 ## 声明
 ### 软件均仅用于学习交流，请勿用于任何商业用途！感谢大家！
 ## 介绍
@@ -21,10 +22,9 @@ Bilibili(b站)视频下载
 pip3 install -r requirements.txt
 ```
 
-
 ## **使用到的开源项目**
 > **danmaku2ass** 
 
-[![Download Bilibili_video-ass_download](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bilibili-video-ass-download/files/latest/download)
+
 
 
